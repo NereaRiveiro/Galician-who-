@@ -68,7 +68,7 @@ Con las fuentes mencionadas previamente se llevó un proceso de transformación,
 
 La carga de los datos la hemos realizado convirtiendo las tablas limpias a csv e importándolas a SQL. En un principio, la organización de nuestro dataframe será de la siguiente forma:
 
-![sql](./images/office.jpeg)
+![sql](./images/rel.png)
 
 
 
@@ -77,7 +77,7 @@ La carga de los datos la hemos realizado convirtiendo las tablas limpias a csv e
 Como se mencionaba al inicio, esto es el prototipo del comiezo de recolección de datos para una base mucho más amplia. Se ha empezado por un artista pero la idea es que se fuesen rellenado todos los de la lista y tener un database completo.
 
 
-
+![sql](./images/office.jpeg)
 
 
 ## 🗂️ Estructura:<a name="estructura"/>
